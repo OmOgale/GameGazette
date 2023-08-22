@@ -1,6 +1,6 @@
 // import Image from "next/image";
+import React from "react";
 import styles from "./page.module.css";
-import Link from "next/link";
 
 export default function Home() {
   return <main className={styles.main}>Landing Page</main>;
