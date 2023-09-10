@@ -14,7 +14,7 @@ export default function Navbar(): React.ReactElement {
       justifyContent={"space-between"}
       alignItems={"center"}
     >
-      <Box>Logo</Box>
+      <Box>GameGazette</Box>
       <Box
         display={"flex"}
         justifyContent={"space-between"}
