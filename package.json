@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@alepertu/metacritic-api": "^2.0.4",
+    "unofficial-metacritic": "^2.0.0"
+  }
+}
